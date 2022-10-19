@@ -1,4 +1,11 @@
 # env-template
+```
+package/
+├─ __main__.py
+├─ plot.py
+```
+
+Rename the package.
 
 ```
 conda env create -f environment.yml
