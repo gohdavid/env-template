@@ -22,7 +22,6 @@ def rcparams():
 
     plt.rcParams['figure.facecolor'] = 'white'
 
-rcparams()
 sns.lineplot(x=[0,1],y=[0,1])
 rcparams()
 plt.close()
