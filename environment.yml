@@ -1,9 +1,8 @@
-name: 
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.9.13
   - pip
-  - poetry=1.1.15
+  - poetry=1.5.1
   - openpyxl
   - ipykernel
